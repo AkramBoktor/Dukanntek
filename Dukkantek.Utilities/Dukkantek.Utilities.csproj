@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.2.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Dukkantek.Domain\Dukkantek.Domain.csproj" />
+    <ProjectReference Include="..\Dukkantek.Infrastructure\Dukkantek.Infrastructure.csproj" />
+    <ProjectReference Include="..\Dukkantek.service\Dukkantek.service.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,16 @@
+.vs/Dukkantek/config/applicationhost.config
+.vs/Dukkantek/DesignTimeBuild/.dtbcache.v2
+.vs/
+Dukkantek/bin/
+Dukkantek/obj/
+Dukkantek.service/obj/
+Dukkantek.Infrastructure/obj/
+Dukkantek.service/bin/
+Dukkantek.Domain/obj/
+Dukkantek.Infrastructure/bin/
+Dukkantek.Utilities/bin/
+Dukkantek.Utilities/obj/
+Dukkantek.common/obj/
+Dukkantek.Domain/bin/
+Dukkantek.common/bin/Debug/net5.0/Dukkantek.common.dll
+Dukkantek.common/bin/

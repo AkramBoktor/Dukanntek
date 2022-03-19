@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dukkantek", "Dukkantek\Dukkantek.csproj", "{78F10843-91D6-4ADB-9771-7CAC08969972}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dukkantek.common", "Dukkantek.common\Dukkantek.common.csproj", "{5EA8935F-E9BF-4E15-BE46-CDAA23E19DA5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dukkantek.Domain", "Dukkantek.Domain\Dukkantek.Domain.csproj", "{8176104B-7F06-4403-8852-D6703D0C664B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dukkantek.Infrastructure", "Dukkantek.Infrastructure\Dukkantek.Infrastructure.csproj", "{79EB8177-D121-4FE4-A50C-FB52FEB6834A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dukkantek.service", "Dukkantek.service\Dukkantek.service.csproj", "{0C410C1F-372A-4250-B529-171B6C5FBCA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dukkantek.Utilities", "Dukkantek.Utilities\Dukkantek.Utilities.csproj", "{96D5B45C-8EE2-438E-9B35-60D02A6B3149}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78F10843-91D6-4ADB-9771-7CAC08969972}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78F10843-91D6-4ADB-9771-7CAC08969972}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78F10843-91D6-4ADB-9771-7CAC08969972}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78F10843-91D6-4ADB-9771-7CAC08969972}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EA8935F-E9BF-4E15-BE46-CDAA23E19DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EA8935F-E9BF-4E15-BE46-CDAA23E19DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EA8935F-E9BF-4E15-BE46-CDAA23E19DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EA8935F-E9BF-4E15-BE46-CDAA23E19DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8176104B-7F06-4403-8852-D6703D0C664B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8176104B-7F06-4403-8852-D6703D0C664B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8176104B-7F06-4403-8852-D6703D0C664B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8176104B-7F06-4403-8852-D6703D0C664B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79EB8177-D121-4FE4-A50C-FB52FEB6834A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79EB8177-D121-4FE4-A50C-FB52FEB6834A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79EB8177-D121-4FE4-A50C-FB52FEB6834A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79EB8177-D121-4FE4-A50C-FB52FEB6834A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C410C1F-372A-4250-B529-171B6C5FBCA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C410C1F-372A-4250-B529-171B6C5FBCA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C410C1F-372A-4250-B529-171B6C5FBCA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C410C1F-372A-4250-B529-171B6C5FBCA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96D5B45C-8EE2-438E-9B35-60D02A6B3149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96D5B45C-8EE2-438E-9B35-60D02A6B3149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96D5B45C-8EE2-438E-9B35-60D02A6B3149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96D5B45C-8EE2-438E-9B35-60D02A6B3149}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C32317D3-6A00-4C15-9529-DC13EE928236}
+	EndGlobalSection
+EndGlobal
